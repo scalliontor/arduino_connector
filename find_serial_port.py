@@ -17,3 +17,4 @@ def find_serial_ports():
 
 if __name__ == "__main__":
     find_serial_ports()
+
