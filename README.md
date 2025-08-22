@@ -31,7 +31,7 @@ arduino-cli version
 ```
 Bạn sẽ thấy phiên bản của Arduino CLI được hiển thị.
 
-2.  **Biên dịch và Nạp mã bằng Arduino CLI:**
+**3. Biên dịch và Nạp mã bằng Arduino CLI:**
     
     Đầu tiên, bạn cần cấp quyền truy cập vào cổng serial:
     ```bash
